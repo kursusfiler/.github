@@ -23,6 +23,7 @@ Du kan finde følgende kursusfiler til følgende bøger:
 
 
 > Filerne er beskyttet af ophavsret, og alle rettigheder er forbeholdt.
-> Du må bruge dem til din egen læring sammen med bogen. Du må ikke bruge
-> dem til undervisning eller kurser eller dele dem med andre, medmindre
-> dette er skriftligt aftalt med Innovate.
+> 
+> Du må bruge dem til din egen læring sammen med bogen. Du må ikke bruge  
+> dem til undervisning eller egne kurser eller dele dem med andre,  
+> medmindre dette er skriftligt aftalt med Innovate.  
