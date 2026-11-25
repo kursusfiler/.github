@@ -21,7 +21,7 @@ Du kan finde følgende kursusfiler til følgende bøger:
 * [Power BI DAX](https://github.com/kursusfiler/power-bi-dax) 
 
 
-
+## Licens
 > Filerne er beskyttet af ophavsret, og alle rettigheder er forbeholdt.
 > 
 > Du må bruge dem til din egen læring sammen med bogen. Du må ikke bruge  
