@@ -1,4 +1,4 @@
-# Velkommen
+# Kursusfiler fra Innovate
 
 Her finder du kursusfiler til de nyeste udgaver af vores kursusbøger til Power BI, Power Query og Excel.
 
@@ -19,3 +19,10 @@ Du kan finde følgende kursusfiler til følgende bøger:
 * [Power BI Videregående](https://github.com/kursusfiler/power-bi-videre)
 * [Power BI for HR-funktionen](https://github.com/kursusfiler/power-bi-hr) 
 * [Power BI DAX](https://github.com/kursusfiler/power-bi-dax) 
+
+
+
+> Filerne er beskyttet af ophavsret, og alle rettigheder er forbeholdt.
+> Du må bruge dem til din egen læring sammen med bogen. Du må ikke bruge
+> dem til undervisning eller kurser eller dele dem med andre, medmindre
+> dette er skriftligt aftalt med Innovate.
