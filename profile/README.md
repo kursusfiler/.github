@@ -10,7 +10,7 @@ Du kan finde følgende kursusfiler til følgende bøger:
 
 ### Excel
 * [Excel Business Intelligence](https://github.com/kursusfiler/xl-business-intelligence)
-* [Excel Introduktion til Power Query](https://github.com/kursusfiler/xl-power-query)
+* [Excel Power Query Introduktion](https://github.com/kursusfiler/xl-power-query)
 * [Excel VBA-programmering](https://github.com/kursusfiler/xl-vba) 
 
 ### Power BI
@@ -22,8 +22,8 @@ Du kan finde følgende kursusfiler til følgende bøger:
 
 
 ## Licens
-> Filerne er beskyttet af ophavsret, og alle rettigheder er forbeholdt.
-> 
-> Du må bruge dem til din egen læring sammen med bogen. Du må ikke bruge  
-> dem til undervisning eller egne kurser eller dele dem med andre,  
-> medmindre dette er skriftligt aftalt med Innovate.  
+Filerne er beskyttet af ophavsret, og alle rettigheder er forbeholdt.
+ 
+Du må bruge dem til din egen læring sammen med bogen. Du må </br>
+ikke bruge dem til undervisning eller egne kurser eller dele dem</br>
+med andre, medmindre dette er skriftligt aftalt med Innovate.  
